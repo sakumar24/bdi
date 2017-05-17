@@ -1,0 +1,17 @@
+com/turvo/bdi/in/request/EntityInsertRequest.class
+com/turvo/bdi/in/clients/FtpClient.class
+com/turvo/bdi/in/model/Customer.class
+com/turvo/bdi/in/metadata/FilesMetaData.class
+com/turvo/bdi/in/model/CustomerCommissionUser.class
+com/turvo/bdi/in/config/ConnectConfig.class
+com/turvo/bdi/in/model/Entity.class
+com/turvo/bdi/in/service/BdiIngestService.class
+com/turvo/bdi/in/model/CustomerCommunicationDetail.class
+com/turvo/bdi/in/helper/EntityHelper.class
+com/turvo/bdi/in/controller/BdiController.class
+com/turvo/bdi/in/clients/ConnectClient.class
+com/turvo/bdi/in/config/BdiConfig.class
+com/turvo/bdi/in/service/DataFilesService.class
+com/turvo/bdi/in/helper/CustomerHelper.class
+com/turvo/bdi/in/helper/factory/EntityHelperFactory.class
+com/turvo/bdi/in/utils/JsonUtils.class

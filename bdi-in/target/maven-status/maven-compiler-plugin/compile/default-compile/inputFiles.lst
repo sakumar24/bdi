@@ -1,0 +1,17 @@
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/request/EntityInsertRequest.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/helper/EntityHelper.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/helper/factory/EntityHelperFactory.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/utils/JsonUtils.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/helper/CustomerHelper.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/metadata/FilesMetaData.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/controller/BdiController.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/service/BdiIngestService.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/model/Entity.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/service/DataFilesService.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/clients/ConnectClient.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/config/BdiConfig.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/config/ConnectConfig.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/model/CustomerCommunicationDetail.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/clients/FtpClient.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/model/Customer.java
+/Users/sanjeevkumar/turvoProjects/repos/bdi/bdi-in/src/main/java/com/turvo/bdi/in/model/CustomerCommissionUser.java
